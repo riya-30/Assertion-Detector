@@ -1,0 +1,277 @@
+1. ASSERTIVES(assertion) 70
+assert
+reassert
+negate
+deny 
+correct
+claim
+affirm
+state
+disclaim
+declare
+tell
+suggest
+guess 
+hypothesize 
+conjecture
+postulate
+predict
+forecast
+foretell
+prophesy
+vaticinate
+report
+retrodict
+warn
+forewarn
+advise
+alert
+alarm
+remind
+describe
+inform
+reveal
+divulge
+divulgate
+notify
+insinuate
+sustain
+insist
+maintain
+assure
+aver
+avouch
+certify
+attest
+swear
+testify
+agree
+disagree
+assent
+dissent
+acquiesce
+object
+recognize
+acknowledge
+admit
+confess
+concede
+recant
+criticize
+praise
+blame
+accuse
+calumniate
+reprimand
+castigate
+denounce
+boast
+complain
+lament
+
+2. COMMISSIVES(other) 32
+commit
+pledge
+undertake
+engage
+promise
+hypothecate
+guarantee
+threaten
+vow
+avow
+swear
+assure
+certify
+accept
+agree
+consent
+acquiesce
+abide
+reject
+refuse
+renounce
+offer
+counter-offer
+bid
+rebid
+tender
+dedicate
+bet
+wager
+contract
+covenant
+subscribe
+
+3. DIRECTIVES(request/recommendation/question) 56
+direct 
+request request
+ask request/question
+question question
+inquire question	
+interrogate question
+urge request
+encourage request
+discourage request
+solicit request
+appeal request
+petition request
+invite request
+convene request
+convoke request
+beg request
+supplicate request
+beseech request
+implore request
+entreat request
+conjure request
+pray request
+insist recommendation
+tell recommendation
+instruct recommendation
+demand
+require
+claim
+order recommendation
+command recommendation
+dictate recommendation
+prescribe recommendation
+enjoin recommendation
+adjure recommendation
+exorcise recommendation
+forbid recommendation
+prohibit recommendation
+interdict recommendation
+proscribe recommendation
+commission recommendation
+charge recommendation
+suggest 
+propose 
+warn recommendation
+advise recommendation
+caution recommendation
+alert recommendation
+alarm recommendation
+recommend recommendation
+permit recommendation
+allow recommendation
+authorize recommendation
+consent recommendation
+invoke request
+imprecate request
+intercede request
+
+4. DECLARATIVES(other) 85
+declare
+renounce
+disclaim
+disown
+resign
+repudiate
+disavow
+retract
+abdicate
+abjure
+deny
+disinherit
+yield
+surrender
+capitulate
+approve
+confirm
+sanction
+ratify
+homologate
+bless
+curse
+dedicate
+consecrate
+disapprove
+stipulate
+name
+call
+define
+abbreviate
+nominate
+authorize
+licence
+install
+appoint
+establish
+institute
+inaugurate
+convene
+convoke
+open
+close
+suspend
+adjourn
+terminate
+dissolve
+denounce
+vote
+veto
+enact
+legislate
+promulgate
+decree
+confer
+grant
+bestow
+accord
+cede
+rule
+adjudge
+adjudicate
+condemn
+sentence
+damn
+clear
+acquit
+disculpate
+exonerate
+pardon
+forgive
+absolve
+cancel
+annul
+abolish
+abrogate
+revoke
+repeal
+rescind
+retract
+sustain
+bequeathi
+baptize
+excommunicate
+
+5. EXPRESSIVES(expression) 28
+approve
+compliment
+praise
+laud
+extol
+plaudit
+applaud
+acclaim
+brag
+boast
+complain
+disapprove
+blame
+reprove
+deplore
+protest
+grieve
+mourn
+lament
+rejoice
+cheer
+boo
+condole
+congratulate
+thank
+apologize
+greet
+welcome
